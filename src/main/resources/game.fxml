@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane
+  xmlns="http://javafx.com/javafx/19"
+  xmlns:fx="http://javafx.com/fxml/1"
+  fx:controller="com.csabapro.sokoban.gui.GameController"
+  fx:id="grid" stylesheets="@game.css"
+  maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity">
+</GridPane>
